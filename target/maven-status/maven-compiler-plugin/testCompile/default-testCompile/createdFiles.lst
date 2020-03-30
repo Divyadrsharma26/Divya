@@ -1,0 +1,9 @@
+com\realtimeProject\pageObject\AddCustomerPage.class
+com\realtimeProject\utilities\XLUtils.class
+com\realtimeProject\testcases\TC_LoginTest_001.class
+com\realtimeProject\pageObject\LoginPage.class
+com\realtimeProject\testcases\BaseClass.class
+com\realtimeProject\utilities\ReadConfig.class
+com\realtimeProject\testcases\TC_LoginDDT_002.class
+com\realtimeProject\utilities\Reporting.class
+com\realtimeProject\testcases\TC_AddCustomerTest_003.class

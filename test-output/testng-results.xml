@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="realtimeProject" duration-ms="56113" started-at="2020-03-26T04:09:50Z" finished-at="2020-03-26T04:10:46Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="31910" started-at="2020-03-26T04:09:50Z" finished-at="2020-03-26T04:10:22Z">
+      <class name="com.realtimeProject.testcases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.realtimeProject.testcases.TC_LoginTest_001@39c0f4a]" name="setup" is-config="true" duration-ms="3710" started-at="2020-03-26T04:09:50Z" finished-at="2020-03-26T04:09:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.realtimeProject.testcases.TC_LoginTest_001@39c0f4a]" name="loginTest" duration-ms="11777" started-at="2020-03-26T04:09:54Z" finished-at="2020-03-26T04:10:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.realtimeProject.testcases.TC_LoginTest_001@39c0f4a]" name="tearDown" is-config="true" duration-ms="624" started-at="2020-03-26T04:10:06Z" finished-at="2020-03-26T04:10:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.realtimeProject.testcases.TC_LoginTest_001 -->
+      <class name="com.realtimeProject.testcases.TC_AddCustomerTest_003">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.realtimeProject.testcases.TC_AddCustomerTest_003@1794d431]" name="setup" is-config="true" duration-ms="2985" started-at="2020-03-26T04:10:06Z" finished-at="2020-03-26T04:10:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.realtimeProject.testcases.TC_AddCustomerTest_003@1794d431]" name="addNewCustomer" duration-ms="12030" started-at="2020-03-26T04:10:09Z" finished-at="2020-03-26T04:10:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.realtimeProject.testcases.TC_AddCustomerTest_003@1794d431]" name="tearDown" is-config="true" duration-ms="640" started-at="2020-03-26T04:10:21Z" finished-at="2020-03-26T04:10:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.realtimeProject.testcases.TC_AddCustomerTest_003 -->
+    </test> <!-- Test1 -->
+    <test name=" Test2" duration-ms="24000" started-at="2020-03-26T04:10:22Z" finished-at="2020-03-26T04:10:46Z">
+      <class name="com.realtimeProject.testcases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.realtimeProject.testcases.TC_LoginTest_001@5bcab519]" name="setup" is-config="true" duration-ms="6503" started-at="2020-03-26T04:10:22Z" finished-at="2020-03-26T04:10:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.realtimeProject.testcases.TC_LoginTest_001@5bcab519]" name="loginTest" duration-ms="11283" started-at="2020-03-26T04:10:29Z" finished-at="2020-03-26T04:10:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.realtimeProject.testcases.TC_LoginTest_001@5bcab519]" name="tearDown" is-config="true" duration-ms="6211" started-at="2020-03-26T04:10:40Z" finished-at="2020-03-26T04:10:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.realtimeProject.testcases.TC_LoginTest_001 -->
+    </test> <!--  Test2 -->
+  </suite> <!-- realtimeProject -->
+</testng-results>
